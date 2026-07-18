@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B3D2E,100:000000&height=200&section=header&text=Welcome%20to%20my%20Sandbox&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0B3D0B&height=180&text=Welcome%20to%20my%20Sandbox&fontSize=40&fontColor=39FF14&fontAlignY=55&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&vCenter=true&width=650&lines=AI+%26+Backend+Engineer;Building+Agentic+AI+and+RAG+Systems;Turning+Ideas+into+Working+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=AI+%26+Backend+Engineer;Building+Agentic+AI+and+RAG+Systems;Turning+Ideas+into+Working+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -17,25 +17,9 @@
 
 <div align="center">
 
-<svg viewBox="0 0 760 320" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="758" height="318" rx="12" fill="#0a0e0a" stroke="#2a2f2a" stroke-width="1"/>
-  <path d="M1 13 A12 12 0 0 1 13 1 H747 A12 12 0 0 1 759 13 V40 H1 Z" fill="#161b16"/>
-  <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
-  <circle cx="46" cy="20" r="6" fill="#ffbd2e"/>
-  <circle cx="68" cy="20" r="6" fill="#27c93f"/>
-  <text x="380" y="25" font-family="Menlo, Consolas, monospace" font-size="13" fill="#7d8c7d" text-anchor="middle">rahul@sandbox — zsh</text>
-  <text font-family="Menlo, Consolas, monospace" font-size="15" fill="#39ff14">
-    <tspan x="26" y="72">$ whoami</tspan>
-    <tspan x="26" y="96" fill="#c9d1c9">&gt; Rahul Singh — AI &amp; Backend Engineer</tspan>
-    <tspan x="26" y="132">$ cat focus.txt</tspan>
-    <tspan x="26" y="156" fill="#c9d1c9">&gt; Agentic AI, RAG Systems, Multi-Agent Orchestration</tspan>
-    <tspan x="26" y="192">$ ls ~/skills</tspan>
-    <tspan x="26" y="216" fill="#c9d1c9">backend/  genai/  ml-pipelines/  apis/</tspan>
-    <tspan x="26" y="252">$ echo $STATUS</tspan>
-    <tspan x="26" y="276" fill="#c9d1c9">&gt; always experimenting, always shipping</tspan>
-    <tspan x="26" y="304">$ _</tspan>
-  </text>
-</svg>
+🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;&nbsp;<code>rahul@sandbox — zsh</code>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1&pause=100000&repeat=false&color=39FF14&background=000000&center=false&vCenter=true&multiline=true&width=760&height=280&lines=%24+whoami;%3E+Rahul+Singh+-+AI+%26+Backend+Engineer;%24+cat+focus.txt;%3E+Agentic+AI%2C+RAG%2C+Multi-Agent+Systems;%24+ls+%7E%2Fskills;backend%2F+genai%2F+ml-pipelines%2F+apis%2F;%24+echo+%24STATUS;%3E+always+experimenting%2C+always+shipping" alt="terminal" />
 
 </div>
 
@@ -127,6 +111,6 @@ A framework for coordinating multiple AI agents to collaboratively solve complex
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B3D2E,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D0B,100:000000&height=100" width="100%"/>
 
 </div>
