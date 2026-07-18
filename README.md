@@ -15,34 +15,13 @@
 
 ## 🧑‍💻 About Me
 
-<table width="100%">
-<tr>
-<td>
+<div align="center">
 
 🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;&nbsp;<code>rahul@sandbox: ~</code>
 
-```bash
-$ whoami
-> Rahul Singh — AI & Backend Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=900&color=39FF14&background=000000&center=false&vCenter=true&multiline=true&width=760&height=280&lines=%24+whoami;%3E+Rahul+Singh+-+AI+%26+Backend+Engineer;%24+cat+focus.txt;%3E+Agentic+AI%2C+RAG%2C+Multi-Agent+Systems;%24+ls+%7E%2Fskills;backend%2F+genai%2F+ml-pipelines%2F+apis%2F;%24+echo+%24STATUS;%3E+always+experimenting%2C+always+shipping" alt="terminal" />
 
-$ cat focus.txt
-> Agentic AI, Retrieval-Augmented Generation (RAG),
-> Multi-Agent Orchestration
-
-$ ls ~/skills
-backend/   genai/   ml-pipelines/   apis/
-
-$ cat status.log
-> comfortable across the stack — from model
-> pipelines to the APIs that serve them
-> always experimenting, always shipping
-
-$ _
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
