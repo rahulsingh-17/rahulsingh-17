@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Welcome%20to%20my%20Sandbox&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=rahulsingh-17)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+Sandbox+%F0%9F%91%8B;AI+%26+Backend+Engineer;Building+Agentic+AI+and+RAG+Systems;Turning+Ideas+into+Working+Systems" alt="Typing SVG" />
 
