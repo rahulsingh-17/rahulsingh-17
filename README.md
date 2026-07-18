@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Welcome%20to%20my%20Sandbox&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🧪%20where%20code%20gets%20tested%20before%20it%20ships&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Welcome%20to%20my%20Sandbox&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Backend+Engineer;Building+Agentic+AI+and+RAG+Systems;Exploring+Multi-Agent+Orchestration;Turning+Ideas+into+Working+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Backend+Engineer;Building+Agentic+AI+and+RAG+Systems;Turning+Ideas+into+Working+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -15,11 +15,34 @@
 
 ## 🧑‍💻 About Me
 
-- 🤖 **AI & Backend Engineer** focused on building intelligent, production-ready systems
-- 🧠 Deep into **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and **multi-agent orchestration**
-- ⚙️ Comfortable across the stack — from model pipelines to the APIs that serve them
-- 🌱 Always experimenting in this sandbox — new frameworks, new architectures, new ideas
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rahul-singh017)
+<table width="100%">
+<tr>
+<td>
+
+🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;&nbsp;<code>rahul@sandbox: ~</code>
+
+```bash
+$ whoami
+> Rahul Singh — AI & Backend Engineer
+
+$ cat focus.txt
+> Agentic AI, Retrieval-Augmented Generation (RAG),
+> Multi-Agent Orchestration
+
+$ ls ~/skills
+backend/   genai/   ml-pipelines/   apis/
+
+$ cat status.log
+> comfortable across the stack — from model
+> pipelines to the APIs that serve them
+> always experimenting, always shipping
+
+$ _
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -74,19 +97,30 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/rahulsingh-17/Adaptive-RAG-Chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsingh-17&repo=Adaptive-RAG-Chatbot&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/rahulsingh-17/Multi-agent-orchestration-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulsingh-17&repo=Multi-agent-orchestration-system&theme=tokyonight&hide_border=true" />
-</a>
+### 🔍 [Adaptive RAG Chatbot](https://github.com/rahulsingh-17/Adaptive-RAG-Chatbot)
 
-</div>
+A retrieval-augmented chatbot that adapts its retrieval strategy dynamically for more accurate, context-aware responses.
 
-- 🔍 **[Adaptive RAG Chatbot](https://github.com/rahulsingh-17/Adaptive-RAG-Chatbot)** — A retrieval-augmented chatbot that adapts its retrieval strategy dynamically for more accurate, context-aware responses.
-- 🤝 **[Multi-Agent Orchestration System](https://github.com/rahulsingh-17/Multi-agent-orchestration-system)** — A framework for coordinating multiple AI agents to collaboratively solve complex tasks.
+![Top Language](https://img.shields.io/github/languages/top/rahulsingh-17/Adaptive-RAG-Chatbot?style=flat-square&color=0EA5E9)
+![Last Commit](https://img.shields.io/github/last-commit/rahulsingh-17/Adaptive-RAG-Chatbot?style=flat-square&color=6366F1)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 [Multi-Agent Orchestration System](https://github.com/rahulsingh-17/Multi-agent-orchestration-system)
+
+A framework for coordinating multiple AI agents to collaboratively solve complex tasks.
+
+![Top Language](https://img.shields.io/github/languages/top/rahulsingh-17/Multi-agent-orchestration-system?style=flat-square&color=0EA5E9)
+![Last Commit](https://img.shields.io/github/last-commit/rahulsingh-17/Multi-agent-orchestration-system?style=flat-square&color=6366F1)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
