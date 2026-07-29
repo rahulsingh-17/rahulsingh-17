@@ -2,18 +2,18 @@
 
 ###
 
-<div data-importer="socials" align="center">
+<p data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/rahul-singh017" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://rahulsingh-17.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
-</div>
+</p>
 
 ###
 
-<div data-importer="techs" align="center">
+<p data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
@@ -63,7 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-</div>
+</p>
 
 ###
 
@@ -75,8 +75,8 @@
 
 ###
 
-<div data-importer="stats" align="center">
+<p data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=rahulsingh-17&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+</p>
 
 ###
